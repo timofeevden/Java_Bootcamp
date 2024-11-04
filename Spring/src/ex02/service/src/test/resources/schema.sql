@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS users;
+CREATE TABLE users(id BIGINT, email VARCHAR(50), password VARCHAR(50));
